@@ -35,7 +35,7 @@ Install
 
 1.download or compile
 
-* optional 1 - download pre-build package from here: https://github.com/medcl/elasticsearch-analysis-ik/releases
+* optional 1 - download pre-build package from here: https://github.com/MiaomSeven/elasticsearch-analysis-ik/releases
 
     create plugin folder `cd your-es-root/plugins/ && mkdir ik`
     
@@ -44,7 +44,7 @@ Install
 * optional 2 - use elasticsearch-plugin to install ( supported from version v5.5.1 ):
 
     ```
-    ./bin/elasticsearch-plugin install https://github.com/medcl/elasticsearch-analysis-ik/releases/download/v6.3.0/elasticsearch-analysis-ik-6.3.0.zip
+    ./bin/elasticsearch-plugin install https://github.com/MiaomSeven/elasticsearch-analysis-ik/releases/download/v6.3.1/elasticsearch-analysis-ik-6.3.1.zip
     ```
 
    NOTE: replace `6.2.3` to your own elasticsearch version
